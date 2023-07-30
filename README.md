@@ -1,7 +1,12 @@
 # notebat
-Best and usable text editor made in Batch, supports backspace, enter and ctrl keys.
+Best and usable text editor made in Batch, supports backspace, enter and CTRL keys.
 
-Supports all special characters `! ( ) | & < > = %` except ESC character
+Supports all special characters `ě š č ř ž ý á í é ! ( ) | & < > = %`, except ESC character
+
+Works only on English/Czech keyboard layout.
+
+![alt text](https://media.discordapp.net/attachments/869861284621979681/1135245204832649456/Screenshot_5.png)
+
 
 
 

@@ -1,7 +1,7 @@
 # notebat
 Best and usable text editor made in Batch, supports backspace, enter and CTRL keys.
 
-Supports all special characters `ě š č ř ž ý á í é ! ( ) | & < > = %`, except ESC character
+Supports all special characters `ě š č ř ž ý á í é ! ( ) | & < > = %` including CTRL key combinations for emoji's and other.
 
 Works only on English/Czech keyboard layout.
 
